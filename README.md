@@ -10,3 +10,5 @@ Pravila proširene verzije:
 Ako želite igrati normalnu verziju igre, pritisnite start, a ako se želite vratiti na proširenu verziju, pritisnite gore ili dolje
 
 Normalno olovka piše plavom bojom, ali ako držite B dok pišete, pisati će crvenom bojom 
+
+Kada se stisne menu, brišu se sva pisanja olovke
