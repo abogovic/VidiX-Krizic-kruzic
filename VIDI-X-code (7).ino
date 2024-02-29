@@ -3,7 +3,7 @@
 #include <SPI.h>
 #include <XPT2046_Touchscreen.h>
 
-int lista[100000000];
+//int lista[100000000];
 
 int gpio = 32;
 int _freq = 250;
