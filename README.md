@@ -11,4 +11,4 @@ Ako želite igrati normalnu verziju igre, pritisnite start, a ako se želite vra
 
 Normalno olovka piše plavom bojom, ali ako držite B dok pišete, pisati će crvenom bojom 
 
-Kada se stisne menu, brišu se sva pisanja olovke
+Kada se stisne menu, restarta se program
